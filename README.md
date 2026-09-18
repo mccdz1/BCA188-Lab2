@@ -1,6 +1,6 @@
 # Laboratory Activity 2: Control a Lamp's Brightness
 **Course:** BCA188  
-**Student Name:** [Your Name]  
+**Student Name:** Michael O. Cadiz
 
 ## Program Description
 This activity demonstrates the Input -> Decision -> Output workflow using Arduino variables and functions to simulate a lamp brightness controller without hardware components.
